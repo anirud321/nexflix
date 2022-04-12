@@ -1,0 +1,18 @@
+.image {
+    height: 70vh;
+    width: 100%;
+    background-image: url("https://www.mobileyouth.org/wp-content/uploads/thor-ragnarok-netflix.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bgdark {
+    height: 70vh;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.7));
+}
+
+/* 
+.mainimg {
+    width: 100vw;
+    height: 600px;
+} */
